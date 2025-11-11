@@ -1,4 +1,4 @@
-# TexMetro
+# TexMetro Qt5 Rollback
 
 A tool for evaluating a number of quality metrics on textured 3D models. It computes a number of measures on arbitrary user provided photo-reconstruction models. This tool can be used to assess and compare existing or future alternative photo-reconstruction tools (e.g. starting from the same set of images), as well as to assess the efficacy of existing or future methods aimed to improve the quality of the texturing of 3D models.
 
