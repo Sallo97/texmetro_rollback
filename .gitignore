@@ -1,0 +1,5 @@
+.DS_Store
+README.md
+src/.qmake.stash
+*.o
+src/texmetro
